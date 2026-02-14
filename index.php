@@ -594,7 +594,7 @@
 
 							<li ng-class="{active: $route.current.activetab == 'egresos'}">
 								<a href="#/egresos">
-									<i class="menu-iconn fa fa-caret-right"></i>
+									<i class="menu-icon fa fa-caret-right"></i>
 									Nuevo Egreso
 								</a>
 
