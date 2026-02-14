@@ -825,9 +825,11 @@
 		<script src="dist/js/dataTables/jquery.dataTables.min.js"></script>
 		<script src="dist/js/dataTables/jquery.dataTables.bootstrap.min.js"></script>
 		<script src="dist/js/dataTables/dataTables.tableTools.min.js"></script>
-		<script src="dist/js/dataTables/dataTables.colVis.min.js"></script>
 
-		<!-- ace scripts -->
+
+		<script src="dist/js/dataTables/dataTables.colVis.min.js"> </script>
+
+		<!-- ace dscripts -->
 		<script src="dist/js/ace-elements.min.js"></script>
 		<script src="dist/js/ace.min.js"></script>
 		<script src="dist/js/lockr.min.js"></script>
